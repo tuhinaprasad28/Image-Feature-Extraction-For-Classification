@@ -1,4 +1,4 @@
-### CNNs and finetuning
+## CNNs  Finetuning Resnet18 model (from torchvision)
 
 
  -  Download the CIFAR 10 dataset (original data can be found [here](http://www.cs.toronto.edu/~kriz/cifar.html), and here is a link to the  pickled [python version](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz). 
