@@ -1,4 +1,4 @@
-## Image Feature Extraction for Image Classification Using CNN Model, Finetuning and Resnet18 model(from torchvision)
+## Image Feature Extraction for Image Classification Using CNN Model, Finetuning and Resnet18 model (From torchvision)
 
 
  -  Download the CIFAR 10 dataset (original data can be found [here](http://www.cs.toronto.edu/~kriz/cifar.html), and here is a link to the  pickled [python version](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz). 
